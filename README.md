@@ -1,5 +1,5 @@
 ## Hello, folks! 👋
-My name is Tahir Jalilov. I'm from Azerbaijan, living in Sumgait and currently working at AccessBank CJSC.
+My name is Tahir Jalilov. I'm from Azerbaijan, currently working at AccessBank CJSC.
 
 
 ### 🔧 Technologies & Tools
